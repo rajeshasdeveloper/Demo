@@ -1,7 +1,7 @@
 ## Basics:
 
-    - The introduction to Python Language, variables and constants
-    - The operations on Lists, Strings, Tuples, Sets and Dictionaries
+    1. The introduction to Python Language, variables and constants
+    2. The operations on Lists, Strings, Tuples, Sets and Dictionaries
     - Creating user defined functions and functional programming
     - Math functions, complex, file handling and I/O
     - Operations on familiar libraries, frameworksand modules such as math, random, datetime, requests, json, csv, xml, etc

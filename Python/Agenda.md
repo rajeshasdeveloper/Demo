@@ -1,3 +1,5 @@
+# Python Course agenda
+
 ## Basics:
 
 - The introduction to Python Language, variables and constants

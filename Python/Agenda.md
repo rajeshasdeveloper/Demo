@@ -4,7 +4,7 @@
     - The operations on Lists, Strings, Tuples, Sets and Dictionaries
     - Creating user defined functions and functional programming
     - Math functions, complex, file handling and I/O
-    - Operations on familiar libraries, frameworksand modules such as math, random,      datetime, requests, json, csv, xml, etc
+    - Operations on familiar libraries, frameworksand modules such as math, random, datetime, requests, json, csv, xml, etc
 
 ## Advanced:
 

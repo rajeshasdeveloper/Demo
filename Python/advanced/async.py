@@ -25,6 +25,7 @@ async def main():
 
     task1_value = await task_1
     print(task1_value)
+    task_1
     await task_2
 
     # measure the total time after the successful run
